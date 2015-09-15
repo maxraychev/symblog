@@ -49,3 +49,5 @@
 # Composer PHAR
 >>>>>>> e14c7eb9b9b1b1e58db8054c37e11770e28648cb
 /composer.phar
+
+.idea
